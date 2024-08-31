@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zehra</h1>
 <h3 align="center">Hello, my name is Zehra. I am a computer engineering student aiming to specialize in artificial intelligence, machine learning, and data science. Collaborating with different disciplines, participating in impactful projects, and producing effective solutions is my goal.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zehrabak&label=Profile%20views&color=0e75b6&style=flat" alt="zehrabak" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zehrabak" alt="zehrabak" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/zehrabak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zehrabak" height="30" width="40" /></a>
@@ -18,4 +14,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zehrabak&show_icons=true&locale=en" alt="zehrabak" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zehrabak&" alt="zehrabak" /></p>
-
