@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zehra</h1>
-<h3 align="center">Over the past 3 years, I have gained in-depth knowledge in software development. Now, I am looking for opportunities to contribute to projects as a Software Developer and tackle new challenges. In this fast-changing field, I am ready to make a meaningful impact with my adaptability and solution-oriented approach.</h3>
+<h3 align="center">I am currently working on image processing.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
